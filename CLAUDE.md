@@ -50,3 +50,8 @@ does not download or cache images. Display as clickable labeled links.
 - Keep components small and focused
 - Use TypeScript strict mode
 - Every symptom toggle should be fast — one tap to activate
+
+## Reference Implementation
+SymptomTracker.jsx is the reference prototype. All UI patterns, styling,
+color palette, component structure, and interaction patterns should match
+this file. Do not redesign or restyle without explicit approval.
